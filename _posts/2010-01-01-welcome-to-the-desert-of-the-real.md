@@ -1,15 +1,15 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to Mindblown Cafe Media Collection
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Welcome to Mindblown Cafe!
+subtitle: Sparking your Amazing Ideas.
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/69356547_123994795612346_5731066817749712896_n.png?_nc_cat=111&_nc_oc=AQmxkJd2FJF08DtGmyNknOK1A-1M_I_MOfA3E_nnDhAKgFopwjgiMqdkZmqDqHNP_90&_nc_ht=scontent-hkg3-1.xx&oh=2f127950d341912ae36971b2f7c1803f&oe=5E0F5A97
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/69356547_123994795612346_5731066817749712896_n.png?_nc_cat=111&_nc_oc=AQmxkJd2FJF08DtGmyNknOK1A-1M_I_MOfA3E_nnDhAKgFopwjgiMqdkZmqDqHNP_90&_nc_ht=scontent-hkg3-1.xx&oh=2f127950d341912ae36971b2f7c1803f&oe=5E0F5A97
 category: blog
 tags:
   - welcome
