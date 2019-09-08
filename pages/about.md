@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-description: Some description.
+title: About Mindblown Cafe
+description: Mindblown Café is not just your ordinary Cafe or Co-working Space
 permalink: /about/
 menu: true
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/Mindblown Cover Photo.png" alt="Mindblown Cafe " width="1000">
 
 # About
 
