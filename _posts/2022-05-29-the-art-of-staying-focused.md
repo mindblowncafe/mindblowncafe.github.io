@@ -3,17 +3,12 @@ date: 2022-05-29 23:48:05
 layout: post
 title: The Art of Staying Focused
 subtitle: Sparking your Amazing Ideas.
-description: >-
-Even if you know what's important to do, losing focus can stop your progress. No matter who you are or what job you do, focusing at work can be hard. Even with great schedule management and organizing skills, it's easy to get off track if you're not careful.
-
-In this course, you'll learn how to stay focused and stay on top of your schedule. You'll learn strategies for dealing with focus challenges and distractions at work. You’ll also find out how to beat fatigue, manage your time, and decline work-related requests. And you’ll explore how to adjust your focus to deal with change, and how to regain focus when you've lost it.
-image: >-
-  https://clickup.com/blog/wp-content/uploads/2020/02/stay-focused.png
-optimized_image: >-
-  https://clickup.com/blog/wp-content/uploads/2020/02/stay-focused.png
+description: Even if you know what's important to do, losing focus can stop your progress. No matter who you are or what job you do, focusing at work can be hard. Even with great schedule management and organizing skills, it's easy to get off track if you're not careful.
+image: https://clickup.com/blog/wp-content/uploads/2020/02/stay-focused.png
+optimized_image: https://clickup.com/blog/wp-content/uploads/2020/02/stay-focused.png
 category: blog
 tags:
-  - welcome
+  - Self-Improvement
   - blog
 author: jqpenaloga
 paginate: true
