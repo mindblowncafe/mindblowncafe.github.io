@@ -1,15 +1,14 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: jqpenaloga
+display_name: JQ Peñaloga
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: hungrymind
+github_username: jayquel
+facebook_username: jayquel.penaloga
+twitter_username: jqpenaloga
+instagram_username: jqpenaloga
+linkedin_username: jqpenaloga
+medium_username: jqpenaloga
 ---
-
