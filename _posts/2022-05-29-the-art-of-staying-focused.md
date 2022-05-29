@@ -1,5 +1,5 @@
 ---
-date: 2022-05-29 23:48:05
+date: 2022-05-28 23:48:05
 layout: post
 title: The Art of Staying Focused
 subtitle: Sparking your Amazing Ideas.
